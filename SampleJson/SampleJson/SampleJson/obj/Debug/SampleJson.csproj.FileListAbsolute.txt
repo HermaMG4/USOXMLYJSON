@@ -1,0 +1,13 @@
+C:\Users\hjlr2\source\repos\SampleJson\SampleJson\bin\Debug\SampleJson.exe.config
+C:\Users\hjlr2\source\repos\SampleJson\SampleJson\bin\Debug\SampleJson.exe
+C:\Users\hjlr2\source\repos\SampleJson\SampleJson\bin\Debug\SampleJson.pdb
+C:\Users\hjlr2\source\repos\SampleJson\SampleJson\obj\Debug\SampleJson.csproj.AssemblyReference.cache
+C:\Users\hjlr2\source\repos\SampleJson\SampleJson\obj\Debug\SampleJson.Inicio.resources
+C:\Users\hjlr2\source\repos\SampleJson\SampleJson\obj\Debug\SampleJson.Properties.Resources.resources
+C:\Users\hjlr2\source\repos\SampleJson\SampleJson\obj\Debug\SampleJson.csproj.GenerateResource.cache
+C:\Users\hjlr2\source\repos\SampleJson\SampleJson\obj\Debug\SampleJson.csproj.CoreCompileInputs.cache
+C:\Users\hjlr2\source\repos\SampleJson\SampleJson\obj\Debug\SampleJson.exe
+C:\Users\hjlr2\source\repos\SampleJson\SampleJson\obj\Debug\SampleJson.pdb
+C:\Users\hjlr2\source\repos\SampleJson\SampleJson\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hjlr2\source\repos\SampleJson\SampleJson\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hjlr2\source\repos\SampleJson\SampleJson\obj\Debug\SampleJson.csproj.Up2Date
