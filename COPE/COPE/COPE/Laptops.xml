@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<store>
+	<Laptop>
+		<Laptop style="Lenovo">IdeaPad_Gaming_3 </Laptop>
+		<Laptop style="Procesador">Ryzen_7_7735HS </Laptop>
+		<Laptop style="RAM">16GB </Laptop>
+		<Laptop style="Almacenamiento">512GB_SSD </Laptop>
+		<Laptop style="Tarjeta_grafica">RTX_3050_6GB </Laptop>
+	</Laptop>
+</store>
